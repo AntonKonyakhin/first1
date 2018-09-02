@@ -34,6 +34,3 @@ print('правильных ответов: ', answer_count)
 print('не правильных ответов: ', not_answer_1)
 print('вопросов без ответа: ', not_answer_count)
 
-
-
-input()
