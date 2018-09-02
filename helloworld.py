@@ -36,3 +36,4 @@ print('вопросов без ответа: ', not_answer_count)
 
 
 
+input()
